@@ -23,7 +23,7 @@ Ingyenes/olcsó alternatívákkal (Groq, Gemini, n8n).
 - Hang vezérlés: nem kezdtük el
 
 ## Következő lépés
-n8n telepítése és bekötése.
+n8n telepítése és bekötése. telepítve van
 
 ## Fontos szabályok
 - Minden kód Windows kompatibilis legyen
